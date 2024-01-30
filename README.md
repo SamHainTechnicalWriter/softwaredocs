@@ -53,7 +53,7 @@ Subject matter expertise includes APIs, SDKs, IAM, SIEM, cybersecurity, UI/UX, g
 # Links
 
 ## Resume
-https://github.com/SamHainTechnicalWriter/softwaredocs/blob/main/SamuelHainResume.docx
+https://github.com/SamHainTechnicalWriter/softwaredocs/blob/main/SamuelHainResume.pdf
 
 ## Portfolio
 https://samhainedu.journoportfolio.com

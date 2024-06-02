@@ -62,6 +62,6 @@ Password: SoftwareDoc321
 ## Linkedin
 www.linkedin.com/in/shain
 
-## Software Scribe
-https://softwarescribe.com/
+## DocSmart
+https://docsmart.ca/
 
